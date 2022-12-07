@@ -1,0 +1,57 @@
+body{
+   width: 50%;
+   margin: auto;
+   padding-bottom: 50px;
+}
+
+.float-right {
+    float: right;
+}
+.float-left {
+    float: left;
+}
+
+.nav-bar {
+    width: 100%;
+    height: 50px;
+    padding-top: 20px;
+}
+
+.btn-style-padding {
+    padding: 5px 10px;
+}
+
+.btn-blue {
+    background-color: blue;
+    color: white;
+    border-color: blue;
+    border-radius: 5px;
+}
+
+.nav-bar a {
+    color: blue;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.btn-green {
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 5px;
+    color: white;
+}
+.section-bg{
+    background-color: bisque;
+    border: 2px solid bisque;
+    padding: 20px 60px;
+    border-radius: 5px;
+}
+
+.display-inline-block{
+    display: inline-block;
+}
+.w-50{
+    width: 50%;
+}

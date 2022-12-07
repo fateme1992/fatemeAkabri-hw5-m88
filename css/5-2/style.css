@@ -1,0 +1,89 @@
+:root {
+    --white-box: #ffffff
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.m-r-1 {
+    margin-right: 0.5rem;
+}
+
+.m-l-1 {
+    margin-left: 0.5rem;
+}
+
+.m-t-1 {
+    margin-top: 0.5rem;
+}
+
+.m-b-1 {
+    margin-bottom: 0.5rem;
+}
+
+.p-t-1 {
+    padding-top: 0.5rem;
+}
+
+.clearfix {
+    content: "";
+    display: table;
+}
+
+.main-box {
+    width: 400px;
+    height: 500px;
+    background-color: black;
+    padding-top: 1rem;
+    box-sizing: border-box;
+}
+
+.red-box {
+    width: 200px;
+    height: 338px;
+    background-color: red;
+    box-sizing: border-box;
+}
+
+.left-top-w {
+    background-color: var(--white-box);
+    width: 170px;
+    height: 180px;
+    box-sizing: border-box;
+}
+
+.left-mid-w {
+    background-color: var(--white-box);
+    width: 170px;
+    height: 150px;
+    box-sizing: border-box;
+}
+
+.left-bottom-blue {
+    width: 170px;
+    height: 120px;
+    background-color: blue;
+    box-sizing: border-box;
+}
+
+.bottom-mid-w {
+    width: 150px;
+    height: 120px;
+    background-color: var(--white-box);
+    box-sizing: border-box;
+
+}
+
+.bottom-right-top {
+    width: 42px;
+    height: 56px;
+    background-color: var(--white-box);
+}
+.yellow{
+    background-color: yellow;
+}
